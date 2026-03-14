@@ -89,7 +89,7 @@ function showImage(index) {
 
 function loadImages() {
     for(let i = 1; i <= 10; i++) {
-        imgs.push(`images/image${i}.jpg`);
+        imgs.push(`/images/image${i}.jpg`);
     }
 }
 
